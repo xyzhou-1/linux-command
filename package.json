@@ -2,7 +2,7 @@
   "name": "linux-command",
   "version": "1.6.1",
   "description": "Linux Command",
-  "main": "dist/data.json",
+  "main": "dist/data.json",a
   "scripts": {
     "start": "npm run build",
     "build": "node build/build.js",
